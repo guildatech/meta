@@ -19,6 +19,12 @@ Amem-se.
 
 Lembre-se das dicas para evitar a comunicação agressiva e usar o 🤙 ou #ironia para sinalizar ironia.
 
+### Regras para publicações de vagas
+
+0. A vaga deve ser clara sobre posição, nível esperado e remuneração. Sem isso será excluída.
+1. Evite brincadeiras e termos ofensivos.
+2. Nâo gere spam. Evite publicar a mesma vaga várias vezes ou várias em sequência.
+
 ## Links
 
 ### Questionário sobre linguagens mais utilizadas:
